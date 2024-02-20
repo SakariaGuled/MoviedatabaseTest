@@ -1,0 +1,6 @@
+@MovIedatabase_HostAddress = http://localhost:5282
+
+GET {{MovIedatabase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
