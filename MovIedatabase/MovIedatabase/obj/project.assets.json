@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sakar\\OneDrive\\Python-projects\\Gokstad_4S\\Projekt-oppgave\\Moviedatabase\\MovIedatabase\\MovIedatabase\\MovIedatabase.csproj",
+      "projectUniqueName": "C:\\Users\\sakar\\OneDrive\\Python-projects\\Gokstad_4S\\MoviedatabaseTest\\MovIedatabase\\MovIedatabase\\MovIedatabase.csproj",
       "projectName": "MovIedatabase",
-      "projectPath": "C:\\Users\\sakar\\OneDrive\\Python-projects\\Gokstad_4S\\Projekt-oppgave\\Moviedatabase\\MovIedatabase\\MovIedatabase\\MovIedatabase.csproj",
+      "projectPath": "C:\\Users\\sakar\\OneDrive\\Python-projects\\Gokstad_4S\\MoviedatabaseTest\\MovIedatabase\\MovIedatabase\\MovIedatabase.csproj",
       "packagesPath": "C:\\Users\\sakar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sakar\\OneDrive\\Python-projects\\Gokstad_4S\\Projekt-oppgave\\Moviedatabase\\MovIedatabase\\MovIedatabase\\obj\\",
+      "outputPath": "C:\\Users\\sakar\\OneDrive\\Python-projects\\Gokstad_4S\\MoviedatabaseTest\\MovIedatabase\\MovIedatabase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sakar\\AppData\\Roaming\\NuGet\\NuGet.Config",
