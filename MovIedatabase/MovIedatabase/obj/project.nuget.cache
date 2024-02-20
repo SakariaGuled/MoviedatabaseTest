@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m3ojAJLvn238hIOV8UDRX/h3RLCduMLxryaGBBwPkIHCK0CCfIM3MpTn0a+hG4xABcBV7rKf53VrWaKldXsLzA==",
+  "dgSpecHash": "tW5a009cil2VHWExmdnZSaanl6LhlMq83l5610yJXkZcVU1Rp2exR0meHfF1QCAsmfOm2FQiCUa0BXU4FuZz/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sakar\\OneDrive\\Python-projects\\Gokstad_4S\\Projekt-oppgave\\Moviedatabase\\MovIedatabase\\MovIedatabase\\MovIedatabase.csproj",
+  "projectFilePath": "C:\\Users\\sakar\\OneDrive\\Python-projects\\Gokstad_4S\\MoviedatabaseTest\\MovIedatabase\\MovIedatabase\\MovIedatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sakar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\sakar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
