@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovIedatabase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29f82dc1437b4cfc30b96ffcbc590f36ba2725ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b62685cb1c7559772376aa1d730ada85dc14390")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovIedatabase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovIedatabase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
