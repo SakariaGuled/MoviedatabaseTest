@@ -1,0 +1,73 @@
+# Bruker-spesifikke filer
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Bruker-spesifikke filer for VS Code
+.vscode/
+
+# MonoDevelop/Xamarin studio bruker-spesifikke filer
+*.userprefs
+
+# Byggede outputfiler
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+packages/
+*.nupkg
+# Ignorer pakke-mapper og filer, men hold `packages.config` og `*.csproj` filer som definerer prosjektavhengigheten
+!packages.config
+!*.csproj
+!*.vbproj
+
+# R# (Resharper)
+_ReSharper*/
+*.[Rr]esharper
+
+# VS 2015+ cache/options directory
+.vs/
+
+# Verktøykataloger
+tools/
+# Pakker mappe
+packages/
+
+# Prosjekt filer som kan regenereres
+*.csproj.user
+*.vbproj.user
+
+# Windows bildefilcacher
+Thumbs.db
+ehthumbs.db
+
+# Folder config fil
+Desktop.ini
+
+# Recycle Bin brukt på filsystemer
+$RECYCLE.BIN/
+
+# Windows Installer filer
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows hurtigbufferfiler
+*.cache
+*.ilk
+*.log
+*.dll
+*.pdb
+
+# ISO-bildefiler
+*.iso
+
+# Temporære filer
+*.tmp
+*.temp
+*.tbd
