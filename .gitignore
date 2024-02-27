@@ -1,73 +1,60 @@
-# Bruker-spesifikke filer
-*.rsuser
+# User-specific files
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# Bruker-spesifikke filer for VS Code
-.vscode/
-
-# MonoDevelop/Xamarin studio bruker-spesifikke filer
+# User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# Byggede outputfiler
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-[Ll]ogs/
 
-# NuGet
-packages/
-*.nupkg
-# Ignorer pakke-mapper og filer, men hold `packages.config` og `*.csproj` filer som definerer prosjektavhengigheten
-!packages.config
-!*.csproj
-!*.vbproj
-
-# R# (Resharper)
-_ReSharper*/
-*.[Rr]esharper
-
-# VS 2015+ cache/options directory
+# Visual Studio 2015/2017/2019/2022 cache/options directory
 .vs/
+*.opendb
+*.db-shm
+*.db-wal
 
-# Verktøykataloger
-tools/
-# Pakker mappe
-packages/
+# Visual Studio 2022 - Specific cache files
+.vs/7
+.vs/MovIedatabase/v17/
 
-# Prosjekt filer som kan regenereres
-*.csproj.user
-*.vbproj.user
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
 
-# Windows bildefilcacher
-Thumbs.db
-ehthumbs.db
+# .NET Core build output directories
+MovIedatabase/bin/
+MovIedatabase/obj/
 
-# Folder config fil
-Desktop.ini
+# .NET Core Sdk - Specific files
+MovIedatabase/*.csproj.nuget.dgspec.json
+MovIedatabase/*.csproj.nuget.g.props
+MovIedatabase/*.csproj.nuget.g.targets
+MovIedatabase/*.csproj.AssemblyReference.cache
+MovIedatabase/obj/Debug/net8.0/.GeneratedMSBuildEditorConfig.editorconfig
 
-# Recycle Bin brukt på filsystemer
-$RECYCLE.BIN/
+# .NET Core Tooling
+MovIedatabase/.idea/
 
-# Windows Installer filer
-*.cab
-*.msi
-*.msm
-*.msp
+# .NET Core VsCode
+.vscode/
+*.code-workspace
 
-# Windows hurtigbufferfiler
-*.cache
-*.ilk
-*.log
-*.dll
-*.pdb
-
-# ISO-bildefiler
-*.iso
-
-# Temporære filer
-*.tmp
-*.temp
-*.tbd
+# Others
+*.swp
+*~
+.DS_Store
