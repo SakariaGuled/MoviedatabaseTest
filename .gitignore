@@ -1,0 +1,60 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015/2017/2019/2022 cache/options directory
+.vs/
+*.opendb
+*.db-shm
+*.db-wal
+
+# Visual Studio 2022 - Specific cache files
+.vs/7
+.vs/MovIedatabase/v17/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core build output directories
+MovIedatabase/bin/
+MovIedatabase/obj/
+
+# .NET Core Sdk - Specific files
+MovIedatabase/*.csproj.nuget.dgspec.json
+MovIedatabase/*.csproj.nuget.g.props
+MovIedatabase/*.csproj.nuget.g.targets
+MovIedatabase/*.csproj.AssemblyReference.cache
+MovIedatabase/obj/Debug/net8.0/.GeneratedMSBuildEditorConfig.editorconfig
+
+# .NET Core Tooling
+MovIedatabase/.idea/
+
+# .NET Core VsCode
+.vscode/
+*.code-workspace
+
+# Others
+*.swp
+*~
+.DS_Store
