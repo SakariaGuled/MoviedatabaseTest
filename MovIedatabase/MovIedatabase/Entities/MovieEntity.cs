@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 public class MovieEntity
 {
     [Key]
@@ -17,5 +19,13 @@ public class MovieEntity
 
     public string MainActor { get; set; } = string.Empty;
 
-    public long Gross { get; set; } = string.Empty;
+    public long? Gross { get; set; }
+
+    public string Language { get; set; } = string.Empty;
+
+    public string Description { get; set; } = string.Empty;
+
+    public string Country { get; set; } = string.Empty;
+
+    public int? Duration { get; set; }
 }
